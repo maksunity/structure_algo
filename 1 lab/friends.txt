@@ -1,0 +1,7 @@
+Maksim Stepa Mark Nikita
+5
+Stepa 1000
+Maksim 400
+Mark 2500
+Maksim 1000
+Nikita 700
